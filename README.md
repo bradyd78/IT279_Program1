@@ -1,7 +1,4 @@
 # IT279_Program1
-
-
-Brief Description of Assignment
 First, you will write a program using the stack class that that checks C++ programs for
 the balancing symbols (/* */, ( ), [ ], and { }). You need not ignore the contents of
 comments. The program will read in a file and output only one of four messages. You
