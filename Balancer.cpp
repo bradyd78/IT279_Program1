@@ -29,7 +29,6 @@ bool isClosing(char c) {
 }
 
 //Function to read file and check balance
-//Function to read file and check balance
 void balance(const string& input) {
     ifstream file(input);
     if (!file) {
